@@ -7,5 +7,5 @@ direction = 270;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 3C7BAE39
-/// @DnDArgument : "speed" "3"
-speed = 3;
+/// @DnDArgument : "speed" "6"
+speed = 6;
